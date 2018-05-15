@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 .marketing-site-content-section {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -75,7 +75,7 @@
 
 .marketing-site-content-section-block-subheader {
   font-size: 13px;
-=======
+
 .large-article-header {
   background: url("https://unsplash.it/1024/500/?blur") no-repeat center;
   background-size: cover;
@@ -168,5 +168,5 @@
 
 .large-article-header-content .article-author a {
   margin-left: 1rem;
->>>>>>> origin/master
+
 }
